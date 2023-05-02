@@ -3,7 +3,7 @@ Projeto feito por Ruan Ruales e Lyuwan Galdino.
 
 **Análise e descrição entre 3 aplicativos: o que eles tem em comum? como foi feito? como eu faria? todas essas questões serão respondidas.**
 
-Organização feita na Wiki: [Wiki da Análise](https://github.com/Ruales7/AnaliseAPP.wiki.git)
+Organização feita na Wiki: [Wiki da Análise](https://github.com/Ruales7/AnaliseAPP/wiki)
 
 Versão README da Análise:
 
