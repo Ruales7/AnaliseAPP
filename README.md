@@ -75,3 +75,8 @@ Embaixo disso o nome e fotos dos produtos. Opção de compartilhar anúncio no c
 
 * **SearchView:**  É basicamente uma ferramenta de pesquisa, uma interface em que o usuário irá procurar pelo que quer, a ferramenta irá mostrar sugestões parecidas com o que o usuário pesquisou, assim como resultados, sendo a principal ferramenta para tela de pesquisa
 ListView: cria uma lista que contém os detalhes sobre o anúncio.
+
+#### Videos para download do funcionamento dos apps:
+![Vídeo do Mercado Livre](https://github.com/Ruales7/AnaliseAPP/blob/main/MercadoLivre.mp4)
+![Vídeo do Enjoei](https://github.com/Ruales7/AnaliseAPP/blob/main/MercadoLivre.mp4)
+![Vídeo da OLX](https://github.com/Ruales7/AnaliseAPP/blob/main/MercadoLivre.mp4)
